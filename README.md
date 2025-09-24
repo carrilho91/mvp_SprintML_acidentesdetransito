@@ -26,4 +26,4 @@ Apesar das limitações de qualidade e completude dos dados, os modelos apresent
 ---
 
 ## 🔗 Acesse o notebook no Google Colab
-[![Open In Colab](https://colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BPsqRwZ8OzJ7nJXXwRJ2kbrONp7kSdmG?usp=sharing)
